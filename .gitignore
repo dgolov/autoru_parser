@@ -1,1 +1,4 @@
 /venv/
+cars.csv
+.idea
+identifier.sqlite
